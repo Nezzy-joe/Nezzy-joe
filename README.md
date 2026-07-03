@@ -14,7 +14,7 @@ I enjoy building backend systems and APIs using Go.
 - Linux
 
 ## Projects
-- Go Task Manager
+- school management system
 - Go Todo CLI
 - Word Count Tool
 - Booking App (Go)
